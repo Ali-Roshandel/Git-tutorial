@@ -1,3 +1,3 @@
 Start Project 
-This is a local edition to push to Github
-This is edition in a github branch called test-branch
+This is a local edition to push to GitHub.
+This is edition in a github branch called test-branch.
