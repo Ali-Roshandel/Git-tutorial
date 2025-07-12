@@ -2,4 +2,3 @@ Start Project
 This is a local edition to push to Github
 This is edition in a github branch called test-branch
 Creating a local branch and push it to remote.
-Mistake
